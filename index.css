@@ -1,13 +1,13 @@
 th {
     text-align: start;
-    padding: 11px;
+    padding: 11px; 
 }
 
 table {
     padding: 20px;
     width: 80%;
     align-items: start;
-    text-align: start;
+    text-align: start;  
 }
 
 li {
@@ -21,7 +21,10 @@ li {
     font-size: 20px;
     margin: 33px
 }
-
+ th, td {
+    border: 1px solid #888; /* لون خفيف */
+   
+}
 
 body {
     padding: 50px 50px 150px 50px;
